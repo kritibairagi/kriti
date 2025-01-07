@@ -126,7 +126,6 @@ section {
 .home-content p {
     margin-top: 1rem;
     font-size: 1.2rem;
-    font-weight: 500;
     margin-bottom: 1rem;
 }
 
@@ -233,7 +232,6 @@ section {
 .about-content p {
     margin: 1rem 5rem 2rem 5rem;
     font-size: 1.2rem;
-    font-weight: 500;
 }
 
 /* skill section */
